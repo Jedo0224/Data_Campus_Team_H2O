@@ -13,3 +13,5 @@ TPS(Total Processing Speed) 예측 및 관리, 그리고 TPS와 응답시간 간
    따라서 TPS의 크기에 따라 응답시간이 크게 증감하는 경우를 이상치로 정해서 경고 출력
 
 
+## 관련 발표자료
+https://docs.google.com/presentation/d/16haGfVx19PkDDDsHA6PEPNpgjt1gpxDJvUB4E1ZLp4M/edit?usp=sharing
